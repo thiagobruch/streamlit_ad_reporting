@@ -6,7 +6,7 @@ from functions.charts import create_performance_over_time_chart, create_platform
 
 # Page configuration
 st.set_page_config(
-    page_title="Ad Performance Report",
+    page_title="TBruch Chkp4 Demo - Ad Performance Report",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
